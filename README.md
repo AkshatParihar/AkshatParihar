@@ -1,5 +1,7 @@
 ### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1798F7&vCenter=true&width=435&lines=Hello+World!+;This+side+Akshat)](https://git.io/typing-svg)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=AkshatParihar&theme=github-dark-blue)](https://git.io/streak-stats)
 <!--
 **AkshatParihar/AkshatParihar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
